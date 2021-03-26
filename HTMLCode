@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<title>Welcome</title>
+</head>
+<body>
+<body bgcolor="#22ffcc">
+<h1> About me: </h1>
+<img src="hafeez12.jpg" height="275" widgth="200">
+<p> My name is Naqeeb Naushad, I'm studying BSCS from SZABIST </p>
+
+<h2> Basic information </h2>
+<table border="1">
+<tr>
+<th> Name </th>
+<th> contact </th>
+<th> country </th>
+<th> Age </th>
+</tr>
+
+<tr>
+<td> Naqeeb </td>
+<td> 03333439242 </td>
+<td> Pakistan </td>
+<td> 20 </td>
+</body>
